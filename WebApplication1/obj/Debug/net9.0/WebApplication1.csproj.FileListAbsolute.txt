@@ -157,3 +157,4 @@
 /Users/mukhammadkhushbakov/Exam/WebApplication1/bin/Debug/net9.0/runtimes/win-arm64/native/e_sqlite3.dll
 /Users/mukhammadkhushbakov/Exam/WebApplication1/bin/Debug/net9.0/runtimes/win-x64/native/e_sqlite3.dll
 /Users/mukhammadkhushbakov/Exam/WebApplication1/bin/Debug/net9.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/mukhammadkhushbakov/Exam/WebApplication1/obj/Debug/net9.0/WebApplication1.sourcelink.json
